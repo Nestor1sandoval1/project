@@ -1,0 +1,41 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+h1{
+background-color:red;
+    
+}
+p{
+background-color:green;
+}
+.first {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.zombie{
+width:200px;
+}
+.door {
+    width: 300px;
+}
+
+.options {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.weapons{
+display:flex;
+    
+}
+.pistol{
+height:290px;
+width:240px;
+}
+.knife{
+height:290px;
+width:240px;
+}
+body{background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200224/pngtree-black-and-grey-wall-image-background-image_330369.jpg');}
